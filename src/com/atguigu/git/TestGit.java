@@ -2,6 +2,6 @@ package com.atguigu.git;
 
 public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("如果这都不算爱！！！");
+		System.out.println("濡傛灉杩欓兘涓嶇畻鐖憋紒锛侊紒");
 	}
 }
